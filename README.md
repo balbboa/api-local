@@ -1,5 +1,6 @@
 ## TODO LIST
 
+(Token/Security thing)
 - https://www.twilio.com/blog/build-restful-api-php-laravel-sanctum
 - https://laravel.com/docs/9.x/sanctum#:~:text=Laravel%20Sanctum%20provides%20a%20featherweight,API%20tokens%20for%20their%20account.
 
